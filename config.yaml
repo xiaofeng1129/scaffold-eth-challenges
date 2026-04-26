@@ -1,0 +1,10 @@
+api_key: "YOUR_API_KEY"
+api_secret: "YOUR_SECRET"
+
+risk:
+  max_position: 3
+  risk_per_trade: 0.05
+
+strategy:
+  breakout_threshold: 0.02
+  volume_ratio: 3
